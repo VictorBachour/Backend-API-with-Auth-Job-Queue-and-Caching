@@ -1,1 +1,8 @@
-nothing here
+dependencies
+fastapi
+uvicorn
+psycopg2-binary
+redis
+celery
+python-jose
+pydantic
